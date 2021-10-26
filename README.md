@@ -1,5 +1,4 @@
-
-Linux enthusiast
+Hello world!
 <!---
 Engineering student.
 Currently learning C.
